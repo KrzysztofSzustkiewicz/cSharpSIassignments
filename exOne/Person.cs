@@ -5,9 +5,9 @@ namespace exOne
 {
     public class Person
     {
-        private readonly string Name;
-        private readonly DateTime BirthDate;
-        private readonly Gender gender;
+        private string Name;
+        private DateTime BirthDate;
+        private Gender gender;
 
         public enum Gender
         {

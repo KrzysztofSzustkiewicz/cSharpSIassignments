@@ -6,7 +6,8 @@ namespace exOne
     {
         public static void Main(string[] args)
         {
-            Person person1 = new Person("Debil", Person.Gender.Male);
+            var person1 = new Employee("Debil", Person.Gender.Male, 30000, "Bootstrapon developer");
+            
             Console.WriteLine(person1);
         }
     }
