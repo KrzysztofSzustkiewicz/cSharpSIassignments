@@ -7,7 +7,6 @@ namespace exOne
     {
         private string Name;
         private DateTime BirthDate;
-        private Gender gender;
 
         public enum Gender
         {
@@ -15,16 +14,15 @@ namespace exOne
             Female
         }
 
-        public Person(string name, Gender gender)
+        public Person(string name, DateTime date)
         {
             this.Name = name;
-            this.BirthDate = DateTime.Now;
-            this.gender = gender;
+            this.BirthDate = date;
         }
 
         public override string ToString()
         {
-            return $"My name is: {this.Name}, I was born in {this.BirthDate:d} and I'm a {this.gender}";
+            return $"My name is: {this.Name}, I was born in {this.BirthDate:d}.";
         }
     }
 }

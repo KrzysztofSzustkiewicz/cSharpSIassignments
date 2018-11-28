@@ -1,21 +1,31 @@
+using System;
+
 namespace exOne
 {
-    public class Employee : Person
+    public class Employee : Person, ICloneable
     {
         private int salary;
         private string proffession;
-        private int classRooms;
+        public Room Room { get; set; }
         
-        public Employee(string name, Gender gender, int salary, string proffession) : base(name, gender)
+        public Employee(string name, DateTime date, int salary, string proffession) : base(name, date)
         {
             this.salary = salary;
             this.proffession = proffession;
-            this.classRooms = new Room().Count;
+            
         }
 
         public override string ToString()
         {
-            return $"{base.ToString()}. I'm working as {this.proffession} and earning {this.salary}$ i jest kurła {this.classRooms} pomieszczeń";
+            return $"{base.ToString()} I'm working as {this.proffession} and earning {this.salary}$" +
+                   $" i jest kurła {this.Room.Number} pomieszczeń";
+        }
+        
+        public object Clone()
+        {
+            Employee newEmployee = (Employee)this.MemberwiseClone();
+            newEmployee.Room = new Room(Room.Number);
+            return newEmployee;
         }
     }
 }

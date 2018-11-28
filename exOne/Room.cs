@@ -2,11 +2,12 @@ namespace exOne
 {
     public class Room
     {
-        private int count = 5;
+        public int Number { get; set; }
 
-        public int Count
+        public Room(int number)
         {
-            get => count;
+            Number = number;
         }
     }
+    
 }
