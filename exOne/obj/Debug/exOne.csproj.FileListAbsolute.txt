@@ -1,0 +1,12 @@
+/home/szojchet/CCdotnet/siAssignments/exOne/bin/Debug/exOne.exe
+/home/szojchet/CCdotnet/siAssignments/exOne/bin/Debug/exOne.pdb
+/home/szojchet/CCdotnet/siAssignments/exOne/obj/Debug/exOne.csprojAssemblyReference.cache
+/home/szojchet/CCdotnet/siAssignments/exOne/obj/Debug/exOne.csproj.CoreCompileInputs.cache
+/home/szojchet/CCdotnet/siAssignments/exOne/obj/Debug/exOne.exe
+/home/szojchet/CCdotnet/siAssignments/exOne/obj/Debug/exOne.pdb
+/home/szojchet/CCdotnet/cSharpSIassignments/siAssignments/exOne/bin/Debug/exOne.exe
+/home/szojchet/CCdotnet/cSharpSIassignments/siAssignments/exOne/bin/Debug/exOne.pdb
+/home/szojchet/CCdotnet/cSharpSIassignments/siAssignments/exOne/obj/Debug/exOne.csprojAssemblyReference.cache
+/home/szojchet/CCdotnet/cSharpSIassignments/siAssignments/exOne/obj/Debug/exOne.csproj.CoreCompileInputs.cache
+/home/szojchet/CCdotnet/cSharpSIassignments/siAssignments/exOne/obj/Debug/exOne.exe
+/home/szojchet/CCdotnet/cSharpSIassignments/siAssignments/exOne/obj/Debug/exOne.pdb
