@@ -1,0 +1,13 @@
+﻿<Window x:Class="TimerEvents.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimerEvents"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="670.057" Width="713.559">
+    <Grid>
+        <ProgressBar Minimum="0" Maximum="100" Value="0" Height="20" Width="250" Name="myProgressBar" MouseDoubleClick="Window_Loaded" Margin="20,103,22,46"/>
+        <Button MouseEnter="gay_him" MouseLeave="no_gay" Name="gaybutton" Content="Adam to" Height="50" Width="200" Margin="51,45,455,574" Background="{DynamicResource {x:Static SystemColors.GradientActiveCaptionBrushKey}}"/>
+    </Grid>
+</Window>

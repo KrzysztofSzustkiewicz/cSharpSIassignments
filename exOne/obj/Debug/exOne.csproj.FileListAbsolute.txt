@@ -10,3 +10,8 @@
 /home/szojchet/CCdotnet/cSharpSIassignments/siAssignments/exOne/obj/Debug/exOne.csproj.CoreCompileInputs.cache
 /home/szojchet/CCdotnet/cSharpSIassignments/siAssignments/exOne/obj/Debug/exOne.exe
 /home/szojchet/CCdotnet/cSharpSIassignments/siAssignments/exOne/obj/Debug/exOne.pdb
+C:\C#\siAssignments\exOne\bin\Debug\exOne.exe
+C:\C#\siAssignments\exOne\bin\Debug\exOne.pdb
+C:\C#\siAssignments\exOne\obj\Debug\exOne.exe
+C:\C#\siAssignments\exOne\obj\Debug\exOne.pdb
+C:\C#\siAssignments\exOne\obj\Debug\exOne.csprojResolveAssemblyReference.cache

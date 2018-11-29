@@ -1,0 +1,15 @@
+C:\C#\siAssignments\TimerEvents\bin\Debug\TimerEvents.exe.config
+C:\C#\siAssignments\TimerEvents\bin\Debug\TimerEvents.exe
+C:\C#\siAssignments\TimerEvents\bin\Debug\TimerEvents.pdb
+C:\C#\siAssignments\TimerEvents\obj\Debug\MainWindow.g.cs
+C:\C#\siAssignments\TimerEvents\obj\Debug\App.g.cs
+C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.cache
+C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.lref
+C:\C#\siAssignments\TimerEvents\obj\Debug\MainWindow.baml
+C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.g.resources
+C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.Cache
+C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.exe
+C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.pdb
+C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache

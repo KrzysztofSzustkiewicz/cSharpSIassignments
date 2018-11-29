@@ -17,8 +17,8 @@ namespace exOne
 
         public override string ToString()
         {
-            return $"{base.ToString()} I'm working as {this.proffession} and earning {this.salary}$" +
-                   $" i jest kurła {this.Room.Number} pomieszczeń";
+            return string.Format("{0} I'm working as {1} and earning {2}$ i jest kurła {3} pomieszczeń",
+                base.ToString(), this.proffession, this.salary, this.Room.Number);
         }
         
         public object Clone()

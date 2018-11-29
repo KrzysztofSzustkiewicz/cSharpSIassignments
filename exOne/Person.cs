@@ -22,7 +22,7 @@ namespace exOne
 
         public override string ToString()
         {
-            return $"My name is: {this.Name}, I was born in {this.BirthDate:d}.";
+            return string.Format("My name is: {0}, I was born in {1:d}.", this.Name, this.BirthDate);
         }
     }
 }
