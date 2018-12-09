@@ -1,0 +1,6 @@
+C:\C#\siAssignments\LookupCollections\bin\Debug\LookupCollections.exe
+C:\C#\siAssignments\LookupCollections\bin\Debug\LookupCollections.pdb
+C:\C#\siAssignments\LookupCollections\obj\Debug\LookupCollections.csprojAssemblyReference.cache
+C:\C#\siAssignments\LookupCollections\obj\Debug\LookupCollections.csproj.CoreCompileInputs.cache
+C:\C#\siAssignments\LookupCollections\obj\Debug\LookupCollections.exe
+C:\C#\siAssignments\LookupCollections\obj\Debug\LookupCollections.pdb
