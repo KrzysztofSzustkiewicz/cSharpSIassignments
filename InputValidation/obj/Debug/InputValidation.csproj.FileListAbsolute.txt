@@ -1,0 +1,15 @@
+C:\C#\siAssignments\InputValidation\bin\Debug\InputValidation.exe.config
+C:\C#\siAssignments\InputValidation\bin\Debug\InputValidation.exe
+C:\C#\siAssignments\InputValidation\bin\Debug\InputValidation.pdb
+C:\C#\siAssignments\InputValidation\obj\Debug\InputValidation.csprojAssemblyReference.cache
+C:\C#\siAssignments\InputValidation\obj\Debug\MainWindow.g.cs
+C:\C#\siAssignments\InputValidation\obj\Debug\App.g.cs
+C:\C#\siAssignments\InputValidation\obj\Debug\InputValidation_MarkupCompile.cache
+C:\C#\siAssignments\InputValidation\obj\Debug\InputValidation_MarkupCompile.lref
+C:\C#\siAssignments\InputValidation\obj\Debug\MainWindow.baml
+C:\C#\siAssignments\InputValidation\obj\Debug\InputValidation.g.resources
+C:\C#\siAssignments\InputValidation\obj\Debug\InputValidation.Properties.Resources.resources
+C:\C#\siAssignments\InputValidation\obj\Debug\InputValidation.csproj.GenerateResource.cache
+C:\C#\siAssignments\InputValidation\obj\Debug\InputValidation.csproj.CoreCompileInputs.cache
+C:\C#\siAssignments\InputValidation\obj\Debug\InputValidation.exe
+C:\C#\siAssignments\InputValidation\obj\Debug\InputValidation.pdb
