@@ -1,0 +1,6 @@
+C:\C#\siAssignments\SequentialCollections\bin\Debug\SequentialCollections.exe
+C:\C#\siAssignments\SequentialCollections\bin\Debug\SequentialCollections.pdb
+C:\C#\siAssignments\SequentialCollections\obj\Debug\SequentialCollections.csprojAssemblyReference.cache
+C:\C#\siAssignments\SequentialCollections\obj\Debug\SequentialCollections.csproj.CoreCompileInputs.cache
+C:\C#\siAssignments\SequentialCollections\obj\Debug\SequentialCollections.exe
+C:\C#\siAssignments\SequentialCollections\obj\Debug\SequentialCollections.pdb
