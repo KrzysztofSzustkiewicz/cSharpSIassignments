@@ -1,0 +1,6 @@
+C:\C#\siAssignments\GenericCollections\obj\Debug\GenericCollections.csprojAssemblyReference.cache
+C:\C#\siAssignments\GenericCollections\obj\Debug\GenericCollections.csproj.CoreCompileInputs.cache
+C:\C#\siAssignments\GenericCollections\bin\Debug\GenericCollections.exe
+C:\C#\siAssignments\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\C#\siAssignments\GenericCollections\obj\Debug\GenericCollections.exe
+C:\C#\siAssignments\GenericCollections\obj\Debug\GenericCollections.pdb
