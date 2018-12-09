@@ -13,3 +13,4 @@ C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.exe
 C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.pdb
 C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
 C:\C#\siAssignments\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+C:\C#\siAssignments\TimerEvents\obj\Debug\App.baml

@@ -1,0 +1,6 @@
+C:\C#\siAssignments\CarRace\bin\Debug\CarRace.exe
+C:\C#\siAssignments\CarRace\bin\Debug\CarRace.pdb
+C:\C#\siAssignments\CarRace\obj\Debug\CarRace.csprojAssemblyReference.cache
+C:\C#\siAssignments\CarRace\obj\Debug\CarRace.csproj.CoreCompileInputs.cache
+C:\C#\siAssignments\CarRace\obj\Debug\CarRace.exe
+C:\C#\siAssignments\CarRace\obj\Debug\CarRace.pdb
