@@ -1,0 +1,6 @@
+C:\C#\siAssignments\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+C:\C#\siAssignments\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+C:\C#\siAssignments\DictionaryCollections\obj\Debug\DictionaryCollections.csprojAssemblyReference.cache
+C:\C#\siAssignments\DictionaryCollections\obj\Debug\DictionaryCollections.csproj.CoreCompileInputs.cache
+C:\C#\siAssignments\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+C:\C#\siAssignments\DictionaryCollections\obj\Debug\DictionaryCollections.pdb
