@@ -28,6 +28,13 @@ namespace InputValidation
                 MessageBox.Show("The phone number is invalid (it must be 10 digit number without spaces)");
                 return;
             }
+            else
+            {
+                if (!Regex.IsMatch(TxtPhone.Text, @"^\((\d{3})\)[\s\-](\d{3})\-(\d{4})$"))
+                {
+                    TxtPhone.Text = ReformatPhone(TxtPhone.Text);
+                }
+            }
 
             if (!ValidEmail(TxtEmail.Text))
             {
@@ -45,8 +52,7 @@ namespace InputValidation
         
         private bool ValidPhone(string number)
         {
-            return Regex.IsMatch(number, @"^\d{10}$");
-            
+            return Regex.IsMatch(number, @"^\(?(\d{3})\)?[\s\-]?(\d{3})\-?(\d{4})$"); 
         }
         
         private bool ValidEmail(string email)
@@ -54,5 +60,10 @@ namespace InputValidation
             return Regex.IsMatch(email, @"^(?("")("".+?(?<!\\)""@)|(([0-9a-z]((\.(?!\.))|[-!#\$%&'\*\+/=\?\^`\{\}\|~\w])*)(?<=[0-9a-z])@))" +
                                         @"(?(\[)(\[(\d{1,3}\.){3}\d{1,3}\])|(([0-9a-z][-0-9a-z]*[0-9a-z]*\.)+[a-z0-9][\-a-z0-9]{0,22}[a-z0-9]))$");
         }
+
+        private string ReformatPhone(string number)
+        {
+            return $"({number.Substring(0, 3)}) {number.Substring(3, 3)}-{number.Substring(6, 4)}";
+                 }
     }
 }
